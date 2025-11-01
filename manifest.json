@@ -1,10 +1,8 @@
 {
-  "display_name": "Kindle Reader Mode",
-  "author": "Anonyme",
-  "version": "0.1.0",
-  "loading_order": 1,
+  "display_name": "Kindle 16:9 Takeover",
+  "author": "Vous",
+  "version": "0.4.0",
   "js": "index.js",
-  "css": "style.css",
   "auto_update": true,
   "minimum_client_version": "1.12.0"
 }
